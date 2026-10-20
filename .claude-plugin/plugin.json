@@ -1,0 +1,22 @@
+{
+  "name": "claude-forge",
+  "description": "Evidence-first Claude Code plugin for repeatable, spec-driven development workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "JunghyunRyu",
+    "url": "https://github.com/JunghyunRyu"
+  },
+  "license": "MIT",
+  "keywords": [
+    "workflow",
+    "framework",
+    "quality",
+    "verification",
+    "milestone",
+    "spec",
+    "review",
+    "handoff",
+    "evidence-first",
+    "development-platform"
+  ]
+}
